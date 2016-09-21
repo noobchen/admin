@@ -15,5 +15,7 @@ hs_err_pid*
 .idea/
 out/
 target/
+web/WEB-INF/lib/
+web/WEB-INF/classes/
 Admin.iml
 
