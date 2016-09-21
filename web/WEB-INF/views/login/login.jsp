@@ -5,7 +5,7 @@
 <html lang="cn">
 <head>
     <meta charset="utf-8">
-    <title>掌上远景合作平台</title>
+    <title>Admin</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
@@ -95,7 +95,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="#"><font color="white">掌上远景合作平台</font></a>
+            <a class="brand" href="#"><font color="white">Admin</font></a>
 
             <div class="nav-collapse collapse">
                 <ul class="nav">

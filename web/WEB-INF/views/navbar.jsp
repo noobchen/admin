@@ -10,7 +10,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="brand" href="#"><font color="white">掌上远景合作平台</font></a>
+            <a class="brand" href="#"><font color="white">Admin</font></a>
 
             <div class="nav-collapse collapse">
                 <ul class="nav">
